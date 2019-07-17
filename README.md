@@ -1,2 +1,2 @@
 # CommunityPiPanel
-Kivy based OctoPrint Raspberry Pi touchscreen interface.
+Kivy (Python) based OctoPrint Raspberry Pi touchscreen interface.
